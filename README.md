@@ -1,2 +1,2 @@
 # psychic-octo-pancake-echo
-Jacob's CIS-376 ECHP Lab
+Jacob's CIS-376 ECHO Lab
